@@ -1,3 +1,3 @@
-as=int(input())
+sv=int(input())
 for r in range(1,6):
-       print(as*r,ends=" ")
+       print(sv*r,ends=" ")
