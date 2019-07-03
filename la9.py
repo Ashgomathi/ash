@@ -1,3 +1,3 @@
 lil=list(map(int,input().split()))
-mag=max(ros)
-print(cup)
+mag=max(lil)
+print(mag)
