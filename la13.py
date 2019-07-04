@@ -1,4 +1,4 @@
 van=int(input())
 man=list(map(int,input().split()))
 for i in range(van):
-  print(man[j],j)
+  print(man[i],i)
