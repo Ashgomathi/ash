@@ -1,0 +1,5 @@
+ab1,cd1=map(int,input().split())
+ab2,cd2=map(int,input().split())
+ab3=efg(ab1-ab2)
+cd3=efg(cd1-cd2)
+print(ab3,cd3) 
