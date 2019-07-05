@@ -1,0 +1,2 @@
+cn=input()
+print(cn)
