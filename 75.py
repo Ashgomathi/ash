@@ -3,9 +3,9 @@ v1=list(ven1)
 k1=len(ven1)
 p1=""
 if((k1%2)==0):
-   q1[int(k1/2)]="*"
-   q1[int(k1/2)-1]="*"
+   v1[int(k1/2)]="*"
+   v1[int(k1/2)-1]="*"
 else:
-   q1[int(k1/2)]="*"
+   v1[int(k1/2)]="*"
 p1=p1.join(v1)
 print(p1)
