@@ -6,4 +6,3 @@ if(weig>1):
    break
  else:
    print("no")
-© 2019 GitHub, Inc.
