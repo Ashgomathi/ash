@@ -1,12 +1,12 @@
-r1=int(input())
-r2=[]
-for h in range(0,r1):
+v1=int(input())
+v2=[]
+for h in range(0,v1):
  pan=input()
- r2.append(pan)
-r3=[]
-for h in zip(*r2):
+ v2.append(pan)
+v3=[]
+for h in zip(*v2):
  if(h.count(h[0])==len(h)):
-  r3.append(h[0])
+  v3.append(h[0])
  else:
   break
-print(''.join(r3))
+print(''.join(v3))
